@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<papers
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+        xmlns="http://www.example.com/Papers">
+
+    <newspaper id="n1" index="12543">
+        <title>Evening Moscow</title>
+        <mounthly>False</mounthly>
+        <colored>False</colored>
+        <pages>12</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <newspaper id="n2" index="12443">
+        <title>Morning Moscow</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>10</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <newspaper id="n3" index="13443">
+        <title>Evening Minsk</title>
+        <mounthly>True</mounthly>
+        <colored>False</colored>
+        <pages>12</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <newspaper id="n4" index="22443">
+        <title>Morning Minsk</title>
+        <mounthly>True</mounthly>
+        <colored>True</colored>
+        <pages>8</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <newspaper id="n5" index="22513">
+        <title>World newses</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>16</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <newspaper id="n6" index="28313">
+        <title>Tea Cup</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>6</pages>
+        <glossy>False</glossy>
+    </newspaper>
+
+    <journal id="j1" index="28013">
+        <title>Java Talks</title>
+        <mounthly>True</mounthly>
+        <colored>True</colored>
+        <pages>32</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <journal id="j2" index="21013">
+        <title>Java Script Info</title>
+        <mounthly>True</mounthly>
+        <colored>False</colored>
+        <pages>23</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <journal id="j3" index="28313">
+        <title>My pets</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>28</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <journal id="j4" index="28023">
+        <title>Healthy Food</title>
+        <mounthly>True</mounthly>
+        <colored>False</colored>
+        <pages>16</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <journal id="j5" index="28022">
+        <title>Computer chip</title>
+        <mounthly>True</mounthly>
+        <colored>False</colored>
+        <pages>42</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <journal id="j6" index="21013">
+        <title>Little lobster</title>
+        <mounthly>False</mounthly>
+        <colored>False</colored>
+        <pages>32</pages>
+        <glossy>True</glossy>
+    </journal>
+
+    <booklet id="b1">
+        <title>Paris map</title>
+        <mounthly>True</mounthly>
+        <colored>True</colored>
+        <pages>6</pages>
+        <glossy>True</glossy>
+    </booklet>
+
+    <booklet id="b2">
+        <title>Minsk info</title>
+        <mounthly>False</mounthly>
+        <colored>False</colored>
+        <pages>12</pages>
+        <glossy>True</glossy>
+    </booklet>
+
+    <booklet id="b3">
+        <title>Tourist advises</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>18</pages>
+        <glossy>True</glossy>
+    </booklet>
+
+    <booklet id="b4">
+        <title>Our lakes</title>
+        <mounthly>False</mounthly>
+        <colored>True</colored>
+        <pages>10</pages>
+        <glossy>True</glossy>
+    </booklet>
+
+    <booklet id="b5">
+        <title>Food of Mogilev</title>
+        <mounthly>True</mounthly>
+        <colored>True</colored>
+        <pages>8</pages>
+        <glossy>True</glossy>
+    </booklet>
+
+</papers>
